@@ -1,0 +1,14 @@
+D:\logBookFrameword\logBookFrameword\bin\Debug\logBookFrameword.exe.config
+D:\logBookFrameword\logBookFrameword\bin\Debug\logBookFrameword.exe
+D:\logBookFrameword\logBookFrameword\bin\Debug\logBookFrameword.pdb
+D:\logBookFrameword\logBookFrameword\bin\Debug\Micron.dll
+D:\logBookFrameword\logBookFrameword\bin\Debug\MySql.Data.dll
+D:\logBookFrameword\logBookFrameword\obj\Debug\logBookFrameword.csprojAssemblyReference.cache
+D:\logBookFrameword\logBookFrameword\obj\Debug\logBookFrameword.Properties.Resources.resources
+D:\logBookFrameword\logBookFrameword\obj\Debug\logBookFrameword.Regisration.resources
+D:\logBookFrameword\logBookFrameword\obj\Debug\logBookFrameword.StartScreen.resources
+D:\logBookFrameword\logBookFrameword\obj\Debug\logBookFrameword.csproj.GenerateResource.cache
+D:\logBookFrameword\logBookFrameword\obj\Debug\logBookFrameword.csproj.CoreCompileInputs.cache
+D:\logBookFrameword\logBookFrameword\obj\Debug\logBookFrameword.csproj.CopyComplete
+D:\logBookFrameword\logBookFrameword\obj\Debug\logBookFrameword.exe
+D:\logBookFrameword\logBookFrameword\obj\Debug\logBookFrameword.pdb
