@@ -10,18 +10,11 @@ using System.Windows.Forms;
 
 namespace logBookFrw
 {
-    public partial class SignIn : Form
+    public partial class Home : Form
     {
-        public SignIn()
+        public Home()
         {
             InitializeComponent();
-        }
-
-        private void signInButton_Click(object sender, EventArgs e)
-        {
-            //if password match user password
-            Home home = new Home();
-            home.ShowDialog();
         }
     }
 }

@@ -30,15 +30,28 @@ namespace logBookFrw
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.signInButton = new System.Windows.Forms.Button();
+            this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.MediumTurquoise;
+            this.panel1.Controls.Add(this.signInButton);
             this.panel1.Location = new System.Drawing.Point(1, 0);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(904, 564);
             this.panel1.TabIndex = 0;
+            // 
+            // signInButton
+            // 
+            this.signInButton.Location = new System.Drawing.Point(597, 394);
+            this.signInButton.Name = "signInButton";
+            this.signInButton.Size = new System.Drawing.Size(105, 46);
+            this.signInButton.TabIndex = 0;
+            this.signInButton.Text = "Sign in";
+            this.signInButton.UseVisualStyleBackColor = true;
+            this.signInButton.Click += new System.EventHandler(this.signInButton_Click);
             // 
             // SignIn
             // 
@@ -48,6 +61,7 @@ namespace logBookFrw
             this.Controls.Add(this.panel1);
             this.Name = "SignIn";
             this.Text = "SignIn";
+            this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -55,5 +69,6 @@ namespace logBookFrw
         #endregion
 
         private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Button signInButton;
     }
 }
