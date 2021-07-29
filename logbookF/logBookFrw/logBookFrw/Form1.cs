@@ -21,13 +21,16 @@ namespace logBookFrw
         {
             SignIn signin = new SignIn();
             signin.ShowDialog();
-          
+            //  this.Close();
+            this.Dispose();
         }
 
         private void registerButton_Click(object sender, EventArgs e)
         {
             Registration regist = new Registration();
             regist.ShowDialog();
+           // this.Close();
+            
         }
     }
 }

@@ -59,6 +59,7 @@
       <DependentUpon>Home.cs</DependentUpon>
     </Compile>
     <Compile Include="Models\User_Info.cs" />
+    <Compile Include="Models\User_Task.cs" />
     <Compile Include="Models\__Relationships.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
