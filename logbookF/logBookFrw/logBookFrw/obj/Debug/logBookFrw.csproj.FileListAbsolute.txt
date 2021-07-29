@@ -1,0 +1,12 @@
+D:\logBookFrw\logbookF\logBookFrw\logBookFrw\bin\Debug\logBookFrw.exe.config
+D:\logBookFrw\logbookF\logBookFrw\logBookFrw\bin\Debug\logBookFrw.exe
+D:\logBookFrw\logbookF\logBookFrw\logBookFrw\bin\Debug\logBookFrw.pdb
+D:\logBookFrw\logbookF\logBookFrw\logBookFrw\obj\Debug\logBookFrw.csprojAssemblyReference.cache
+D:\logBookFrw\logbookF\logBookFrw\logBookFrw\obj\Debug\logBookFrw.Form1.resources
+D:\logBookFrw\logbookF\logBookFrw\logBookFrw\obj\Debug\logBookFrw.Properties.Resources.resources
+D:\logBookFrw\logbookF\logBookFrw\logBookFrw\obj\Debug\logBookFrw.Registration.resources
+D:\logBookFrw\logbookF\logBookFrw\logBookFrw\obj\Debug\logBookFrw.SignIn.resources
+D:\logBookFrw\logbookF\logBookFrw\logBookFrw\obj\Debug\logBookFrw.csproj.GenerateResource.cache
+D:\logBookFrw\logbookF\logBookFrw\logBookFrw\obj\Debug\logBookFrw.csproj.CoreCompileInputs.cache
+D:\logBookFrw\logbookF\logBookFrw\logBookFrw\obj\Debug\logBookFrw.exe
+D:\logBookFrw\logbookF\logBookFrw\logBookFrw\obj\Debug\logBookFrw.pdb
