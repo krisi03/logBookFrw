@@ -14,7 +14,6 @@ namespace Data.Models
         public String task_description {get; set;}
         public String task_time {get; set;}
         public String task_date {get; set;}
-        [Foreign(typeof(User_Info))]
         public Int32 user_id {get; set;}
  }
 }

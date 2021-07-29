@@ -26,7 +26,7 @@ namespace logBookFrw
             //if password match user password
             /*string pass = passwordtextBox.Text;
             string userN = usernametextBox.Text;
-
+            */
             if (String.IsNullOrEmpty(usernametextBox.Text))
             {
                 MessageBox.Show("Invalid username");
@@ -36,21 +36,20 @@ namespace logBookFrw
             {
                 MessageBox.Show("Invalid password");
             }
-            User_Info user = micron.GetRecord<User_Info>($"username='{usernametextBox.Text}' AND password = '{passwordtextBox.Text}'");
+          //  User_Info user = micron.GetRecord<User_Info>($"username='{usernametextBox.Text}' AND password = '{passwordtextBox.Text}'");
 
-            if (user == null)
-            {
-                MessageBox.Show("Invalid username or password! Please try again!");
-                return;
-            }
+            //if (user == null)
+            //{
+            //   MessageBox.Show("Invalid username or password! Please try again!");
+            //   return;
+            //  }
             else
             {
-            */
+
                 Home home = new Home();
                 home.ShowDialog();
                 this.Close();
-
-           // }
+            }
         }
 
         private void label1_Click(object sender, EventArgs e)

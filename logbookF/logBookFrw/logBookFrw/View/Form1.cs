@@ -21,7 +21,7 @@ namespace logBookFrw
         {
             SignIn signin = new SignIn();
             signin.ShowDialog();
-            //  this.Close();
+              this.Close();
             this.Dispose();
         }
 
@@ -29,7 +29,7 @@ namespace logBookFrw
         {
             Registration regist = new Registration();
             regist.ShowDialog();
-           // this.Close();
+            this.Close();
             
         }
     }

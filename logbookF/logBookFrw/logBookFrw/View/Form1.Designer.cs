@@ -67,7 +67,7 @@ namespace logBookFrw
             // 
             this.registerButton.BackColor = System.Drawing.Color.White;
             this.registerButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
-            this.registerButton.ForeColor = System.Drawing.SystemColors.HotTrack;
+            this.registerButton.ForeColor = System.Drawing.Color.DarkSlateGray;
             this.registerButton.Location = new System.Drawing.Point(351, 399);
             this.registerButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.registerButton.Name = "registerButton";
@@ -81,7 +81,7 @@ namespace logBookFrw
             // 
             this.signInButton.BackColor = System.Drawing.Color.White;
             this.signInButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.signInButton.ForeColor = System.Drawing.SystemColors.HotTrack;
+            this.signInButton.ForeColor = System.Drawing.Color.DarkSlateGray;
             this.signInButton.Location = new System.Drawing.Point(351, 320);
             this.signInButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.signInButton.Name = "signInButton";
